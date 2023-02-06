@@ -1,0 +1,38 @@
+/*** DEVELOPER: Allie He, IS117003, Fall 2022 ***/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1 {
+    padding: 10px 0;
+    font-weight: 800;
+    color: darkslategrey !important;
+    background-color: #f0a5a5;
+    text-align: center;
+}
+body {
+    background-color: lightcyan;
+    align-content: center;
+    line-height: 1.6;
+}
+.gallery {
+    column-count: 2;
+    padding: 0 1em;
+    text-align: center;
+}
+.responsive{
+    width: 100%;
+    height: auto;
+}
+.footer {
+    position: relative !important;
+    bottom: 0;
+    width: 100%;
+    background-color: #f0a5a5 !important;
+    color: white;
+    text-align: center;
+    font-size: xx-small;
+    margin: 0;
+    padding: 10px;
+}
