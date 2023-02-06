@@ -1,3 +1,3 @@
 # Personal Portfolio #
-Personal portfolio website for IS117 (intro to website development) Final Project
+Personal portfolio website made in intro to website development during frehsman year. 
 Made using HTML, CSS, and Bootstrap 5. 
