@@ -18,6 +18,12 @@ h1 {
 .contact{
     text-align: center;
 }
+#bttn {
+    background-color: #f09c9c !important;
+    color: white;
+    border-style: none;
+    padding: 2px 15px;
+}
 .footer {
     position: fixed !important;
     bottom: 0;
