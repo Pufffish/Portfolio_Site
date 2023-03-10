@@ -7,9 +7,9 @@
 h1 {
     font-size: 2.8em;
     font-weight: 800;
-    padding: 0;
+    padding: 0px;
     color: darkslategrey;
-    background-color: #f0a5a5;
+    background-color: #f09c9c;
     alignment: center;
 }
 .socials{
@@ -24,14 +24,14 @@ h1 {
     border-style: none;
     padding: 2px 15px;
 }
-.footer {
-    position: fixed !important;
-    bottom: 0;
-    width: 100%;
-    background-color: #f0a5a5 !important;
-    color: white;
-    text-align: center;
-    font-size: xx-small;
-    margin: 0;
-    padding: 10px;
-}
+/*.footer {*/
+/*    position: fixed !important;*/
+/*    bottom: 0;*/
+/*    width: 100%;*/
+/*    background-color: #f0a5a5 !important;*/
+/*    color: white;*/
+/*    text-align: center;*/
+/*    font-size: xx-small;*/
+/*    margin: 0;*/
+/*    padding: 10px;*/
+/*}*/

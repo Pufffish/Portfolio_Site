@@ -14,7 +14,7 @@ h1 {
     font-weight: 800;
     width: 100%;
     color: darkslategrey;
-    background-color: #f0a5a5 !important;
+    background-color: #f09c9c !important;
     text-align: center;
 }
 #about h1{
@@ -44,7 +44,7 @@ h1 {
     position: relative !important;
     bottom: 0;
     width: 100%;
-    background-color: #f0a5a5 !important;
+    background-color: #f09c9c !important;
     color: white;
     text-align: center;
     font-size: xx-small;
