@@ -37,22 +37,20 @@
     <br><br>
   </div>
 
+  <!-- added submit php function -->
   <div class="contact">
-
-    <form action="" class="contact-form">
+    <form action="submit.php" class="contact-form" method="post">
       <div class="input-control i-c-2">
-        <input type="text" placeholder="Your name">
-        <input type="email" placeholder="Your email">
+        <input type="text" name="name" placeholder="Your name">
+        <input type="email" name="email" placeholder="Your email">
       </div>
       <div class="input-control">
-        <textarea name="" id="" cols="35" rows="8" placeholder="Please enter your message here"></textarea>
+        <textarea name="message" id="" cols="35" rows="8" placeholder="Please enter your message here"></textarea>
       </div>
       <div class="submit-btn">
-        <a href="#" class="main-btn">
-          <button id="bttn">Submit</button>
-        </a>
+        <button type="submit" id="bttn">Submit</button>
       </div>
-    </form>
+    </form>    
 
 
     <footer class="footer">
